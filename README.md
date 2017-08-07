@@ -5,7 +5,7 @@
      sudo apt install conky-manager
 
 
-01- Extract: Onsen tamago.zip
+01- Extract: Conky-master.zip
 
 02- copy "Onsen tamago"  ---to---> /home/Your User Name/.conky
 
