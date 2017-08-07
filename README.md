@@ -1,4 +1,4 @@
-# Conky
+# Conky - Onsen tamago
 # How to use:
 
 00- Install "conky-all" and "conky-manager"
