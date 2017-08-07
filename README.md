@@ -13,3 +13,5 @@
 
 www.LinuxForLife.ir
 https://t.me/linuxforlife
+
+https://github.com/RezaSh13/Conky/blob/master/Onsen%20tamago/Screenshot%20from%202017-08-05%2001-28-02.png
