@@ -22,6 +22,6 @@
 
 
 
-www.LinuxForLife.ir
+# www.LinuxForLife.ir
 
-https://t.me/linuxforlife
+# https://t.me/linuxforlife
