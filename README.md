@@ -1,5 +1,6 @@
 # Conky
 How to use:
+
 00- Install "conky-all" and "conky-manager"
 
      sudo apt install conky-all
